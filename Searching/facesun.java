@@ -1,3 +1,7 @@
+/*
+Given an array H representing heights of buildings. You have to count the buildings 
+which will see the sunrise
+*/
 class Solution {
     int countBuildings(int h[], int n) {
         // code here
